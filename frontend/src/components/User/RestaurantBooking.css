@@ -1,0 +1,27 @@
+.booking-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50%;
+  }
+  
+  .booking-container h2 {
+    color: #6c757d;
+    margin-bottom: 20px;
+  }
+  
+  .booking-container form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    margin: auto; 
+  }
+
+  .booking-container form .form-group {
+    padding: 0 20px;
+  }
+  
+  .booking-container button {
+    margin-top: 10px;
+  }
